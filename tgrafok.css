@@ -29,6 +29,13 @@ h3 {
   font-style: italic;
   font-size: 0.7em;
   color: #FF0000;
+  width: 400px;
+  border-style: solid;
+  font-size: 7em;
+}
+
+#jobbra img {
+  width: 400px;
 }
 
 .kerdeskep {
