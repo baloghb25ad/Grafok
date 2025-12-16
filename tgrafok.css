@@ -41,8 +41,10 @@ h3 {
 .kerdeskep {
   float: left;
   margin-right: 20px;
+  width: 200px;
 }
 
 a {
   color: red;
 }
+
